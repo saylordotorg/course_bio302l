@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Circulatory System: Heart and Blood Vessels** <span
 id="9"></span> 
 *This section will teach you how to label the heart’s structures using

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Muscular System** <span id="6"></span> 
 *In this section, you will label the muscles, including the anterior and
 posterior muscles, using cat dissections.  This unit will also review

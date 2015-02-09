@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Classification of Tissues** <span id="2"></span> 
 *In this section, we will focus on histology and practice identifying
 different tissue types using microscopic images.  An understanding of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Digestive System** <span id="11"></span> 
 *This section will teach you how to label the structures located within
 the digestive system using models and cat dissections.  You will also

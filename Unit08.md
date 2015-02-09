@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Special Senses** <span id="8"></span> 
 *This unit focuses on the special senses, emphasizing the eye and the
 ear.  You will learn how to label the different structures of these

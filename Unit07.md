@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302L: Human Anatomy Lab"
+course_description: "A series of introductory activities and exercises that explore human anatomy. Lab topics include: anatomical terms, histology, bones, muscles, eye and ear anatomy, respiratory system anatomy, and various dissections including the brain, heart, urinary system, reproductive system, and digestive system."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Nervous System** <span id="7"></span> 
 *In this section, you will label different structures of the brain,
 spinal cord, and identify the cranial and spinal nerves using sheep and
